@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ferdis17
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Java, python, pyspark, databricks, spring boot, cloud, infra
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me https://www.linkedin.com/in/ferdinand-muriyesu/
 
